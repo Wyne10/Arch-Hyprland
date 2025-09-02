@@ -23,6 +23,8 @@ Extra=(
   prismlauncher
   keychain
   xclip
+  dotnet-sdk-8.0
+  dotnet-sdk
 )
 
 hypr_package=( 
