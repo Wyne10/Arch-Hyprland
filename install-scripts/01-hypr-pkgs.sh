@@ -9,6 +9,20 @@
 # add packages wanted here
 Extra=(
   clash-verge-rev-bin
+  mariadb
+  gradle
+  maven
+  jdk-openjdk
+  jdk21-openjdk
+  jdk17-openjdk
+  jdk11-openjdk
+  jdk8-opendjdk
+  steam
+  discord
+  telegram-desktop
+  prismlauncher
+  keychain
+  xclip
 )
 
 hypr_package=( 
