@@ -8,7 +8,7 @@
 
 # add packages wanted here
 Extra=(
-
+  clash-verge-rev-bin
 )
 
 hypr_package=( 
