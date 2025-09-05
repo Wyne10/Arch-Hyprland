@@ -22,7 +22,7 @@ Extra=(
   telegram-desktop
   prismlauncher
   keychain
-  xclip
+  wl-clipboard
   dotnet-sdk-8.0
   dotnet-sdk
 )
