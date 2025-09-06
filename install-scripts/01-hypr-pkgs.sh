@@ -25,6 +25,7 @@ Extra=(
   wl-clipboard
   dotnet-sdk-8.0
   dotnet-sdk
+  easyeffects
 )
 
 hypr_package=( 
