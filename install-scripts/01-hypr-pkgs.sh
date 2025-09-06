@@ -26,6 +26,8 @@ Extra=(
   dotnet-sdk-8.0
   dotnet-sdk
   easyeffects
+  lsp-plugins
+  obs-studio
 )
 
 hypr_package=( 
