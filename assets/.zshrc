@@ -39,3 +39,6 @@ HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
+
+# Load keychain and SSH keys
+# eval $(keychain --quiet --eval id_ed25519)
